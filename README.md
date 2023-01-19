@@ -36,7 +36,7 @@ Como parte del equipo de data de una empresa, el área de análisis de datos sol
 3. Deployment: Utilizamos Deta.
 
 Estos pasos se encuentran detallados en el siguiente video: 
-
+https://www.loom.com/share/bda00889797b4b5e88aa20b0039626c4
 
 <br/>
 
