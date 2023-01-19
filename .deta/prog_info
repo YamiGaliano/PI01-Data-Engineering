@@ -1,0 +1,1 @@
+{"id":"4038b05e-c69b-4994-ba01-69f248853bea","space":48359,"runtime":"python3.9","name":"PI01-Data-Engineering","path":"q8ifew","project":"e0vo24d5","account":"144798365827","region":"sa-east-1","deps":["fastapi","pandas","pandasql"],"envs":null,"public":true,"log_level":"debug","cron":""}
